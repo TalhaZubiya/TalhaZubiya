@@ -296,9 +296,10 @@ My long-term vision is to take Computer Science into real life on a larger scale
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TalhaZubiya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TalhaZubiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 ---
 
 ## Contribution Graph
