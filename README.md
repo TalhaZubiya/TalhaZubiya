@@ -304,7 +304,7 @@ My long-term vision is to take Computer Science into real life on a larger scale
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaZubiya/TalhaZubiya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/TalhaZubiya/TalhaZubiya/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
