@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Talha Zubiya Banner"/>
+  <img src="./banner.png" width="100%" alt="Talha Zubiya Banner"/>
 </p>
 # Hi, I'm Talha Zubiya
 
