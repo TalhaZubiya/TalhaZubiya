@@ -1,18 +1,16 @@
-# Hi, I'm **Talha Zubiya**
+# Hi, I'm Talha Zubiya
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=AI+Agent+%26+Automation+Builder;CSE+Student+%7C+Developer;Programming+%7C+AI+%7C+Automation;Future+Cybersecurity+Enthusiast;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
-</p>
+### AI Agent & Automation Builder | CSE Student | Developer
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left">
   <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -20,290 +18,286 @@
 
 ## About Me
 
-I'm a **Computer Science & Engineering student and Developer** with a strong interest in **programming, Artificial Intelligence, AI Agents, automation, and cybersecurity**.
+I am a Computer Science & Engineering student with a strong interest in **programming, software development, AI agents, automation, and emerging technologies**.
 
-My development journey started with programming fundamentals, and I am continuously improving my ability to solve problems through code. I am currently working with **C, C++, and Java**, while developing a stronger understanding of **Object-Oriented Programming, Data Structures, Algorithms, and software development fundamentals**.
+My learning journey started with programming fundamentals and gradually moved into **C, C++, Data Structures, Java, and Object-Oriented Programming**. From there, I started exploring **AI Agents, RAG, workflow automation, APIs, and intelligent systems**.
 
-Alongside programming, I am exploring **AI Agents, RAG systems, AI automation, workflow automation, APIs, and intelligent systems**.
+Currently, I am focusing on expanding my knowledge in AI-powered systems and automation while continuing to strengthen my core CSE foundation.
 
-I believe that programming fundamentals are the foundation for understanding how software, AI systems, and computer technologies actually work.
-
-My long-term learning path is to combine:
-
-**Programming → Development → AI → Automation → Cybersecurity**
+I don't want to limit myself to one particular technology or field. I want to continuously explore different areas of Computer Science, build practical solutions, and understand how technology can be applied to real-world problems.
 
 ---
 
 ## Current Focus
 
-| Area              | What I'm Learning                                     |
-| ----------------- | ----------------------------------------------------- |
-| Programming       | C, C++, Java                                          |
-| Problem Solving   | Data Structures, Algorithms, Logical Thinking         |
-| Development       | Object-Oriented Programming, Software Design          |
-| AI                | AI Agents, RAG, OpenAI API                            |
-| AI Infrastructure | Embeddings, Vector Databases, Pinecone                |
-| Automation        | n8n, Zapier, AI-powered Workflows                     |
-| Frameworks        | LangChain, Langflow                                   |
-| Backend           | APIs, Databases, Backend Fundamentals                 |
-| Future            | Cybersecurity, Network Security, Application Security |
+| Area        | What I'm Learning                           |
+| ----------- | ------------------------------------------- |
+| Programming | C, C++, Java, Problem Solving               |
+| Core CSE    | Data Structures, OOP, Algorithms            |
+| AI          | AI Agents, RAG, LLM Applications            |
+| Automation  | n8n, Zapier, Workflow Automation            |
+| Integration | REST APIs, Webhooks, API Integration        |
+| Development | Git, GitHub, VS Code                        |
+| Exploration | Advanced AI Systems & Emerging Technologies |
 
 ---
 
-## Programming
+## Programming & Software Development
 
-Programming is one of the most important parts of my development journey.
+Programming is one of the core foundations of my CSE journey.
 
-I am learning programming not simply to write code, but to understand **how problems can be analyzed, broken down, and solved efficiently**.
-
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### Programming Concepts
+| Technology | Learning Focus                              |
+| ---------- | ------------------------------------------- |
+| C          | Programming Fundamentals                    |
+| C++        | Programming & Problem Solving               |
+| Java       | Application Development                     |
+| Python     | Upcoming — AI, ML, Automation & Development |
 
-| Concept                     | Focus                                                                   |
-| --------------------------- | ----------------------------------------------------------------------- |
-| Object-Oriented Programming | Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation |
-| Data Structures             | Understanding and implementing fundamental data structures              |
-| Algorithms                  | Algorithmic thinking and problem solving                                |
-| Problem Solving             | Breaking complex problems into manageable steps                         |
-| File Handling               | Reading, writing and managing application data                          |
-| GUI Development             | Building desktop interfaces with Java Swing                             |
-| Version Control             | Git and GitHub                                                          |
+### Core Concepts
 
-I am continuously practicing programming through **projects, problem-solving, and hands-on development**.
+* Programming Fundamentals
+* Object-Oriented Programming
+* Data Structures
+* Algorithms
+* Problem Solving
+* File Handling
+* Software Development Fundamentals
+* Git & GitHub
 
 ---
 
-## AI & Automation
+## AI Agents & Automation
 
-I'm currently exploring how Artificial Intelligence can be connected with software and automation to build systems that can perform useful tasks with less manual effort.
+I am currently focusing heavily on **AI Agents and Automation**, but I consider this an ongoing learning journey.
 
-### AI Technologies
+There is still a lot more to explore in this field, including **advanced agent architectures, multi-agent systems, RAG pipelines, tool calling, APIs, intelligent workflows, and production-oriented automation**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### Technologies & Tools
 
-| Technology       | Area                       |
-| ---------------- | -------------------------- |
-| OpenAI API       | AI-powered applications    |
-| AI Agents        | Intelligent task execution |
-| RAG              | Knowledge retrieval        |
-| LangChain        | AI application development |
-| Langflow         | Visual AI workflows        |
-| Embeddings       | Semantic representation    |
-| Pinecone         | Vector database            |
-| Vector Databases | Knowledge retrieval        |
+| Area             | Technologies                           |
+| ---------------- | -------------------------------------- |
+| AI               | LLMs, OpenAI API, AI Agents            |
+| RAG              | Embeddings, Vector Databases, Pinecone |
+| Agent Frameworks | LangChain, Langflow                    |
+| Automation       | n8n, Zapier                            |
+| Data & Workflow  | Airtable, Google Sheets, Google Forms  |
+| Integration      | REST APIs, Webhooks                    |
+| Development      | Git, GitHub, VS Code                   |
 
-### Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=zapier" />
-</p>
-
-**n8n • Zapier • Workflow Automation • AI Automation • API Integration**
-
-My interest is mainly in building systems that can:
-
-**Understand information → Retrieve knowledge → Process data → Make decisions → Perform actions**
-
----
-
-## Future Learning — Cybersecurity
-
-Cybersecurity is one of the areas I plan to explore as I continue developing my technical foundation.
-
-Before going deeply into cybersecurity, I want to strengthen my understanding of:
-
-| Foundation                   | Why It Matters                              |
-| ---------------------------- | ------------------------------------------- |
-| Programming                  | Understanding how software works            |
-| Data Structures & Algorithms | Building logical and efficient solutions    |
-| Computer Networks            | Understanding communication between systems |
-| Operating Systems            | Understanding system-level concepts         |
-| Databases                    | Understanding data storage and management   |
-| Web Technologies             | Understanding modern web applications       |
-| Software Development         | Understanding how applications are designed |
-
-After strengthening these fundamentals, I plan to explore areas such as:
-
-**Network Security • Application Security • Ethical Hacking • System Security • Secure Software Development**
-
----
-
-## Tech Stack
-
-### Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**OpenAI API • AI Agents • RAG • LangChain • Langflow • Pinecone • n8n • Zapier**
-
-### Data & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**SQL • Databases • Airtable • Google Sheets • REST APIs • API Integration**
-
----
-
-## Featured Projects
-
-### FairRide — Campus Bus Seat Reservation System
-
-A Java-based campus bus seat reservation application designed to simplify bus booking and seat management.
-
-| Feature          | Description                       |
-| ---------------- | --------------------------------- |
-| Bus Routes       | Multiple campus bus routes        |
-| Seat Reservation | View and reserve available seats  |
-| Student System   | Student login and booking flow    |
-| Booking History  | Track previous reservations       |
-| Booking Policy   | Time-based booking rules          |
-| Penalty System   | Reservation-related penalty rules |
-| Interface        | Java Swing-based GUI              |
-
-**Tech Stack:** `Java` `OOP` `Java Swing` `File Handling`
-
----
-
-### AI-Powered Email Automation
-
-An AI-powered workflow designed to automate email-related tasks for an e-commerce business.
-
-**Workflow Technologies**
-
-`Zapier` `AI by Zapier` `Gmail` `Google Docs`
-
-**Key Areas**
-
-* AI-powered email processing
-* Automated email handling
-* Multi-step workflows
-* Google Docs integration
-* Business workflow automation
-
----
-
-### AI Agent & RAG Projects
-
-A collection of projects and experiments focused on understanding and building intelligent AI systems.
-
-**Exploring**
-
-`AI Agents` `RAG` `Embeddings` `Pinecone` `LangChain` `Langflow` `OpenAI API`
+My goal is to move beyond basic automation and gradually build **more advanced, intelligent, and scalable AI-powered systems**.
 
 ---
 
 ## Learning Journey
 
+My learning journey is continuously evolving. I started by building a strong programming foundation and gradually moved toward AI-powered systems and automation.
+
 ```text
-                    PROGRAMMING
-                         |
-              +----------+----------+
-              |                     |
-             C/C++                Java
-              |                     |
-              +----------+----------+
-                         |
-                  PROBLEM SOLVING
-                         |
-              DATA STRUCTURES
-                         |
-                  ALGORITHMS
-                         |
-               OBJECT-ORIENTED
-                PROGRAMMING
-                         |
-                         v
-                    DEVELOPMENT
-                         |
-            +------------+------------+
-            |                         |
-            v                         v
-       AI & AUTOMATION          BACKEND & DATA
-            |                         |
-            v                         v
-        AI AGENTS                  APIs
-            |                    DATABASES
-            v
-           RAG
-            |
-            v
-       EMBEDDINGS
-            |
-            v
-    VECTOR DATABASES
-            |
-            v
-     WORKFLOW AUTOMATION
-            |
-            v
-       n8n / Zapier
-            |
-            v
-      CYBERSECURITY
-      Future Learning
+                    MY CSE LEARNING JOURNEY
+
+                          C
+                          │
+                          ▼
+                         C++
+                          │
+                          ▼
+                  Data Structures
+                          │
+                          ▼
+                        Java
+                          │
+                          ▼
+                         OOP
+                          │
+                          ▼
+               AI Agents & Automation
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+             RAG         n8n        Zapier
+              │           │           │
+              └───────────┼───────────┘
+                          ▼
+                 Advanced AI Systems
+                          │
+                          ▼
+                Advanced AI Projects
+                          │
+                          ▼
+                     Next Stage
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▼                 ▼                 ▼
+     Python           Databases       Microprocessors
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+                  Machine Learning
+                          │
+                          ▼
+                    Cybersecurity
+                          │
+                          ▼
+                 More CSE Technologies
+                          │
+                          ▼
+                 Continuous Learning
 ```
+
+---
+
+## What I'm Learning Next
+
+My future learning roadmap is not limited to one specialization. I want to explore different areas of Computer Science as I progress.
+
+| Upcoming Area       | Why I Want to Learn It                           |
+| ------------------- | ------------------------------------------------ |
+| Python              | AI, ML, Automation & Software Development        |
+| Databases           | Backend Development & Data Management            |
+| Microprocessors     | Computer Architecture & Hardware Understanding   |
+| Machine Learning    | Intelligent & Predictive Systems                 |
+| Cybersecurity       | Security, Networks & Secure Systems              |
+| Backend Development | Building Complete Applications                   |
+| Advanced AI         | More capable AI Agents & Intelligent Systems     |
+| More CSE Topics     | Expanding my overall Computer Science foundation |
+
+As I progress through my CSE journey, I will continue exploring **new technologies, frameworks, tools, and areas of Computer Science**.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### AI & Automation
+
+| Category        | Tools                   |
+| --------------- | ----------------------- |
+| AI              | OpenAI API, LLMs        |
+| AI Frameworks   | LangChain, Langflow     |
+| Vector Database | Pinecone                |
+| Automation      | n8n, Zapier             |
+| Data Tools      | Airtable, Google Sheets |
+| Integration     | REST APIs, Webhooks     |
 
 ---
 
 ## Developer Mindset
 
-I believe that becoming a better developer is a continuous process.
+> Learn the fundamentals.
+> Build real things.
+> Understand how they work.
+> Keep experimenting.
+> Keep improving.
 
-Learning a technology is only the beginning. Understanding the fundamentals, building real projects, solving problems, making mistakes, and learning from them are what help me grow.
+I believe strong fundamentals create the foundation for exploring advanced technologies.
 
-> **Learn the fundamentals. Build real things. Understand how they work. Keep improving.**
+**Programming → Development → AI → Automation → Advanced CSE → Continuous Learning**
 
 ---
 
 ## Goals
 
-My current goal is to become a stronger **Developer** with a solid foundation in programming and modern AI technologies.
-
-In the long run, I want to bring together:
-
 <table>
 <tr>
-<td align="center"><b>Programming</b></td>
-<td align="center">+</td>
-<td align="center"><b>Development</b></td>
-<td align="center">+</td>
-<td align="center"><b>AI</b></td>
-<td align="center">+</td>
-<td align="center"><b>Automation</b></td>
-<td align="center">+</td>
-<td align="center"><b>Cybersecurity</b></td>
+<td width="50%">
+
+### Short-Term
+
+* Strengthen programming fundamentals
+* Improve problem-solving skills
+* Build more Java & OOP projects
+* Learn Python
+* Learn databases
+* Build advanced AI Agent & Automation projects
+* Explore backend development
+* Improve Git & GitHub workflow
+
+</td>
+<td width="50%">
+
+### Long-Term
+
+* Become a strong developer
+* Build intelligent software systems
+* Explore Machine Learning
+* Learn Cybersecurity
+* Understand computer systems deeply
+* Explore different areas of CSE
+* Continuously learn emerging technologies
+
+</td>
 </tr>
 </table>
 
-to build **practical, intelligent, and secure technology solutions**.
+---
+
+## Future Vision
+
+My goal is not simply to learn technologies or become proficient in a particular field.
+
+I want to explore **Computer Science beyond its conventional boundaries** and bring it into real life on a much larger scale.
+
+I want to discover new ways to use Computer Science to solve real-world problems, create meaningful solutions, and represent technology in **new forms, new perspectives, and new possibilities**.
+
+<table>
+<tr>
+<td width="50%">
+
+### Explore
+
+* Computer Science
+* Artificial Intelligence
+* Software Development
+* Automation
+* Machine Learning
+* Cybersecurity
+* Emerging Technologies
+
+</td>
+<td width="50%">
+
+### Create
+
+* Real-world solutions
+* Intelligent systems
+* Practical applications
+* New approaches
+* Meaningful technology
+* Ideas that create impact
+
+</td>
+</tr>
+</table>
+
+> **I don't want to simply follow where technology is going.
+> I want to explore where Computer Science can go next.**
+
+My long-term vision is to **take Computer Science into real life on a larger scale and represent it in new ways — creating, experimenting, and exploring possibilities that go beyond what already exists.**
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -311,31 +305,28 @@ to build **practical, intelligent, and secure technology solutions**.
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Learning • Building • Experimenting • Improving</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my GitHub profile.
+  <b>Building. Learning. Exploring.</b><br>
+  Always curious about what Computer Science can become.
 </p>
