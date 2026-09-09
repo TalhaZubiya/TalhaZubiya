@@ -63,16 +63,6 @@ Programming is one of the core foundations of my CSE journey.
 | Java       | Application Development                     |
 | Python     | Upcoming — AI, ML, Automation & Development |
 
-### Core Concepts
-
-* Programming Fundamentals
-* Object-Oriented Programming
-* Data Structures
-* Algorithms
-* Problem Solving
-* File Handling
-* Software Development Fundamentals
-* Git & GitHub
 
 ---
 
@@ -153,25 +143,6 @@ My learning journey is continuously evolving. I started by building a strong pro
                           ▼
                  Continuous Learning
 ```
-
----
-
-## What I'm Learning Next
-
-My future learning roadmap is not limited to one specialization. I want to explore different areas of Computer Science as I progress.
-
-| Upcoming Area       | Why I Want to Learn It                           |
-| ------------------- | ------------------------------------------------ |
-| Python              | AI, ML, Automation & Software Development        |
-| Databases           | Backend Development & Data Management            |
-| Microprocessors     | Computer Architecture & Hardware Understanding   |
-| Machine Learning    | Intelligent & Predictive Systems                 |
-| Cybersecurity       | Security, Networks & Secure Systems              |
-| Backend Development | Building Complete Applications                   |
-| Advanced AI         | More Capable AI Agents & Intelligent Systems     |
-| More CSE Topics     | Expanding My Overall Computer Science Foundation |
-
-As I progress through my CSE journey, I will continue exploring new technologies, frameworks, tools, and areas of Computer Science.
 
 ---
 
