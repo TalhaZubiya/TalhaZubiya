@@ -202,93 +202,10 @@ As I progress through my CSE journey, I will continue exploring new technologies
 
 ---
 
-## Developer Mindset
-
-> Learn the fundamentals.
-> Build real things.
-> Understand how they work.
-> Keep experimenting.
-> Keep improving.
-
-I believe strong fundamentals create the foundation for exploring advanced technologies.
-
-Programming → Development → AI → Automation → Advanced CSE → Continuous Learning
-
----
-
-## Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### Short-Term
-
-* Strengthen programming fundamentals
-* Improve problem-solving skills
-* Build more Java & OOP projects
-* Learn Python
-* Learn databases
-* Build advanced AI Agent & Automation projects
-* Explore backend development
-* Improve Git & GitHub workflow
-
-</td>
-<td width="50%">
-
-### Long-Term
-
-* Become a strong developer
-* Build intelligent software systems
-* Explore Machine Learning
-* Learn Cybersecurity
-* Understand computer systems deeply
-* Explore different areas of CSE
-* Continuously learn emerging technologies
-
-</td>
-</tr>
-</table>
-
----
-
 ## Future Vision
 
-My goal is not simply to learn technologies or become proficient in a particular field.
+My goal is not simply to learn technologies or become proficient in a particular field. I want to explore Computer Science beyond its conventional boundaries and bring it into real life on a much larger scale. I want to discover new ways to use Computer Science to solve real-world problems, create meaningful solutions, and represent technology in new forms, new perspectives, and new possibilities.
 
-I want to explore Computer Science beyond its conventional boundaries and bring it into real life on a much larger scale.
-
-I want to discover new ways to use Computer Science to solve real-world problems, create meaningful solutions, and represent technology in new forms, new perspectives, and new possibilities.
-
-<table>
-<tr>
-<td width="50%">
-
-### Explore
-
-* Computer Science
-* Artificial Intelligence
-* Software Development
-* Automation
-* Machine Learning
-* Cybersecurity
-* Emerging Technologies
-
-</td>
-<td width="50%">
-
-### Create
-
-* Real-world solutions
-* Intelligent systems
-* Practical applications
-* New approaches
-* Meaningful technology
-* Ideas that create impact
-
-</td>
-</tr>
-</table>
 
 > I don't want to simply follow where technology is going.
 > I want to explore where Computer Science can go next.
