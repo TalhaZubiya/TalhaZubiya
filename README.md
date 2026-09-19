@@ -188,12 +188,9 @@ My long-term vision is to take Computer Science into real life on a larger scale
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
-</p>
-
-<p align="center">
-  <img src="./profile/streak.svg" height="180"/>
+  <img src="./profile/stats.svg" width="32%"/>
+  <img src="./profile/top-langs.svg" width="32%"/>
+  <img src="./profile/streak.svg" width="32%"/>
 </p>
 
 ---
