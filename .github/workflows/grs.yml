@@ -2,7 +2,7 @@ name: Update GitHub Statistics
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "17 22 * * *"
   workflow_dispatch:
 
 permissions:
@@ -46,5 +46,10 @@ jobs:
 
           git add profile/*.svg
 
-          git commit -m "Update GitHub statistics" || exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub statistics"
           git push
