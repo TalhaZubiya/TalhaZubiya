@@ -32,20 +32,6 @@ I don't want to limit myself to one particular technology or field. I want to co
 
 ---
 
-## Current Focus
-
-| Area        | What I'm Learning                           |
-| ----------- | ------------------------------------------- |
-| Programming | C, C++, Java, Problem Solving               |
-| Core CSE    | Data Structures, OOP, Algorithms            |
-| AI          | AI Agents, RAG, LLM Applications            |
-| Automation  | n8n, Zapier, Workflow Automation            |
-| Integration | REST APIs, Webhooks, API Integration        |
-| Development | Git, GitHub, VS Code                        |
-| Exploration | Advanced AI Systems & Emerging Technologies |
-
----
-
 ## Programming & Software Development
 
 Programming is one of the core foundations of my CSE journey.
@@ -112,18 +98,6 @@ My goal is to move beyond basic automation and gradually build more advanced, in
 | Automation      | n8n, Zapier             |
 | Data Tools      | Airtable, Google Sheets |
 | Integration     | REST APIs, Webhooks     |
-
----
-
-## Future Vision
-
-My goal is not simply to learn technologies or become proficient in a particular field. I want to explore Computer Science beyond its conventional boundaries and bring it into real life on a much larger scale. I want to discover new ways to use Computer Science to solve real-world problems, create meaningful solutions, and represent technology in new forms, new perspectives, and new possibilities.
-
-
-> I don't want to simply follow where technology is going.
-> I want to explore where Computer Science can go next.
-
-My long-term vision is to take Computer Science into real life on a larger scale and represent it in new ways — creating, experimenting, and exploring possibilities that go beyond what already exists.
 
 ---
 
