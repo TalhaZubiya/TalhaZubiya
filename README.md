@@ -32,48 +32,6 @@ I don't want to limit myself to one particular technology or field. I want to co
 
 ---
 
-## Programming & Software Development
-
-Programming is one of the core foundations of my CSE journey.
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-| Technology | Learning Focus                              |
-| ---------- | ------------------------------------------- |
-| C          | Programming Fundamentals                    |
-| C++        | Programming & Problem Solving               |
-| Java       | Application Development                     |
-| Python     | Upcoming — AI, ML, Automation & Development |
-
-
----
-
-## AI Agents & Automation
-
-I am currently focusing heavily on AI Agents and Automation, but I consider this an ongoing learning journey.
-
-There is still a lot more to explore in this field, including advanced agent architectures, multi-agent systems, RAG pipelines, tool calling, APIs, intelligent workflows, and production-oriented automation.
-
-### Technologies & Tools
-
-| Area             | Technologies                           |
-| ---------------- | -------------------------------------- |
-| AI               | LLMs, OpenAI API, AI Agents            |
-| RAG              | Embeddings, Vector Databases, Pinecone |
-| Agent Frameworks | LangChain, Langflow                    |
-| Automation       | n8n, Zapier                            |
-| Data & Workflow  | Airtable, Google Sheets, Google Forms  |
-| Integration      | REST APIs, Webhooks                    |
-| Development      | Git, GitHub, VS Code                   |
-
-My goal is to move beyond basic automation and gradually build more advanced, intelligent, and scalable AI-powered systems.
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -88,18 +46,7 @@ My goal is to move beyond basic automation and gradually build more advanced, in
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### AI & Automation
 
-| Category        | Tools                   |
-| --------------- | ----------------------- |
-| AI              | OpenAI API, LLMs        |
-| AI Frameworks   | LangChain, Langflow     |
-| Vector Database | Pinecone                |
-| Automation      | n8n, Zapier             |
-| Data Tools      | Airtable, Google Sheets |
-| Integration     | REST APIs, Webhooks     |
-
----
 
 ## GitHub Statistics
 
