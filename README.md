@@ -55,8 +55,9 @@ I don't want to limit myself to one particular technology or field. I want to co
 
 <p align="center">
   <img src="./profile/stats.svg" width="32%"/>
-  <img src="./profile/top-langs.svg" width="32%"/>
   <img src="./profile/streak.svg" width="32%"/>
+  <img src="./profile/top-langs.svg" width="32%"/>
+  
 </p>
 
 ---
