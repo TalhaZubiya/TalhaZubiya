@@ -54,14 +54,6 @@ I don't want to limit myself to one particular technology or field. I want to co
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaZubiya/TalhaZubiya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="left">
